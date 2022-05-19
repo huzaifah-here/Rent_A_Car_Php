@@ -46,17 +46,3 @@ password: admin
 ___
 </br>
 
-## Screenshots
-<div>
-<img src="public/img/laravel-login1.png">
-<br>
-<img src="public/img/brands.png">
-<br>
-<img src="public/img/client.png">
-<br>
-<img src="public/img/model.png">
-</div>
-<img src="public/img/select.png">
-</div>
-
-___
